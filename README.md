@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#6a5acd;">Hola 👋, soy Martin Muñoz</h1>
 <h3 align="center" style="color:#4682b4;">Desarrollador backend desde España</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Spring y también estoy inscrito en un curso de Ciberseguridad**.
+- 🌱 Actualmente estoy aprendiendo a toquetear **Spring**.
 
 - 📫 Cómo contactarme: **martinmunyoz@gmail.com**
 
